@@ -12,7 +12,7 @@ Question
 
 ## Project Status
 
-🚧 Under active development.
+Under active development.
 
 This repository is a ground-up redesign of an earlier prototype with a focus on:
 
